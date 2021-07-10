@@ -2,13 +2,7 @@
 
 ### Prerequisites
 1. G++ compiler
-   * ```sudo apt-get install g++```
-
-### How to compile project
-1. go to project directory and run following command
-   * ```make```
-3. To clean solution 
-   * ```make clean```
+   * ```sudo apt-get install g++````
    
 ### How to Run project
 ```
