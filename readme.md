@@ -95,7 +95,7 @@ goto <directory_path>
 
 ```
 Eg:
-goto /home/darshan/
+goto /home/prakhar/
 goto ~
 ```
 
